@@ -30,3 +30,4 @@ https://portfolio-aditya-beckham.netlify.app/
 ## Getting Started
 
 1. Clone the repository:
+gh repo clone Adityabeckham/Portfolio-Aditya-Beckham
